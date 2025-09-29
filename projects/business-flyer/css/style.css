@@ -1,0 +1,89 @@
+/* font-family: "Barrio", system-ui;
+font-family: "DM Serif Text", serif;
+font-family: "Noto Serif", serif; */
+
+
+h1 {
+    font-family: "Barrio", system-ui; 
+}
+
+body{
+    font-family: "Noto Serif",serif;
+}
+
+h2{
+    font-family: "DM Serif Text", serif;
+}
+
+header{
+    background-color: black;
+    color: #fff; 
+    text-align: center;
+    padding: 50pt; 
+}
+
+.address{
+    margin: 10px; 
+}
+
+.schedule{
+    margin:10px;
+}
+
+.Getyourfavorite{
+    background-color: beige;
+    padding: 10pt;
+    margin: 10px; 
+}
+
+#coffeecups{
+    margin-top:10px;
+    margin-bottom:30px;
+}
+
+.OurStory{
+    padding: 10px;
+    margin-top: 30px;
+    text-align:center;
+}
+
+#mustache{
+    margin:10px;
+    margin-top:30px;
+}
+
+.OurMission{
+    margin-top: 30 px;
+    padding: 20px;
+}
+
+.reviews{
+    text-align:center;
+    margin: 10px;
+    font-style: italic;
+}
+
+footer{
+    text-align: center;
+    padding: 40px;
+}
+
+.OrderAhead{
+    text-decoration: none;
+}
+
+.Doordash{
+    text-decoration: none;
+}
+
+.weekdays{
+    font-style:italic;
+}
+
+.weekends{
+    font-style:italic;
+}
+
+.FederalHill{
+    font-style:italic;
+}
